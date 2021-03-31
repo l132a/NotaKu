@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NotaKu</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="success">Success</string>
+    <string name="field_error">Field error</string>
+    <string name="home">Home</string>
+    <string name="customer">Customer</string>
+    <string name="receive">Receive</string>
+    <string name="report">Report</string>
+    <string name="setting">Setting</string>
+    <string name="onbackpressed">Please click BACK again to exit</string>
+    <string name="data_empty">Data not available</string>
+    <string name="data_empty_desc">The request data does not exist</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="price">Price</string>
+    <string name="stock">Stock</string>
+</resources>
